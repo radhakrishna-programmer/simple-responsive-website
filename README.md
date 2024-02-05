@@ -1,1 +1,1 @@
-simple responsive website
+simple responsive website made using HTML and CSS
